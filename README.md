@@ -6,7 +6,7 @@ Yet another semantic-ui modal component for Vue2 without Jquery but with pure Vu
 
 This component only provide a frame and transitions for modal. Configurations of an inner modal is on your own, and it should be almost identical with usual way of semantic-ui. If your are not sure of how configure it, follow [official examples](https://semantic-ui.com/modules/modal.html#/examples) 
 
-[demo](http://decisive-ship.surge.sh/#/modal) [source](https://github.com/qgp9/vue-ya-semantic-demo/blob/master/src/components/Modal.vue)
+[demo](http://vue-ya-semantic.netlify.com/#/modal) [source](https://github.com/qgp9/vue-ya-semantic-demo/blob/master/src/components/Modal.vue)
 
 ## Set Up
 * Global set up
