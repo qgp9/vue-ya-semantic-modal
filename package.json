@@ -1,7 +1,7 @@
 {
   "name": "vue-ya-semantic-modal",
   "description": "Yet another semantic-ui modal component for Vue2",
-  "version": "0.0.4",
+  "version": "0.0.2",
   "author": {
     "name": "qgp9",
     "email": "pauljang9@gmail.com"
