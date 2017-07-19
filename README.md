@@ -1,5 +1,5 @@
 # vue-ya-semantic-modal
-[![npm](https://img.shields.io/npm/v/vue-ya-semantic-elements.svg)](https://www.npmjs.com/package/vue-ya-semantic-elements)
+[![npm](https://img.shields.io/npm/v/vue-ya-semantic-modal.svg)](https://www.npmjs.com/package/vue-ya-semantic-elements)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
 Yet another semantic-ui modal component for Vue2
