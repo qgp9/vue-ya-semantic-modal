@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "rollup-plugin-vue": "^2.4.0"
+  }
+}
