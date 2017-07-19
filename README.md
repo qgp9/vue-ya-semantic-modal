@@ -4,7 +4,7 @@
 
 Yet another semantic-ui modal component for Vue2
 
-[demo](http://decisive-ship.surge.sh/#/modal) [source](https://github.com/qgp9/vue-ya-semantic-demo)
+[demo](http://decisive-ship.surge.sh/#/modal) [source](https://github.com/qgp9/vue-ya-semantic-demo/blob/master/src/components/Modal.vue)
 
 ## Set Up
 * Global set up
