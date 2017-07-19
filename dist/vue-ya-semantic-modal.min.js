@@ -1,5 +1,5 @@
 /*!
- * vue-ya-semantic-modal v0.0.4 
+ * vue-ya-semantic-modal v0.0.2 
  * (c) 2017 qgp9
  * Released under the MIT License.
  */
