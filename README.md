@@ -46,6 +46,7 @@ export default {
   </div>
 </ya-modal>
 ```
+![BOOYAH](http://i.imgur.com/JoeKDOC.png)
 
 * When you want modal without transition, use `:transition="false"`
 * `inverted` attribute will be applied dimmer container
