@@ -2,7 +2,9 @@
 [![npm](https://img.shields.io/npm/v/vue-ya-semantic-modal.svg)](https://www.npmjs.com/package/vue-ya-semantic-elements)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
-Yet another semantic-ui modal component for Vue2
+Yet another semantic-ui modal component for Vue2 without Jquery but with pure Vue transition
+
+This component only provide a frame and transitions for modal. Configurations of an inner modal is on your own, and it should be almost identical with usual way of semantic-ui. If your are not sure of how configure it, follow [official examples](https://semantic-ui.com/modules/modal.html#/examples) 
 
 [demo](http://decisive-ship.surge.sh/#/modal) [source](https://github.com/qgp9/vue-ya-semantic-demo/blob/master/src/components/Modal.vue)
 
